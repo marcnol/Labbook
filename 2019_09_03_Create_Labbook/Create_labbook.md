@@ -47,6 +47,8 @@ There are many applications that support Markdown. I use [Typora](https://www.ty
 
 But you can also use on-line editors such as (Dillinger)[https://dillinger.io/] or [StackEdit](https://stackedit.io/app#) or (HackMD)[https://hackmd.io/].
 
+I recently installed [codiMD](http://192.168.6.30:3000/) in one of our servers. It is *supposed* to be great for document collaboration.
+
 Do your shopping and stick to what you like the best.
 
 ### Writing text in markdown
