@@ -7,7 +7,7 @@ Create a directory structure as in the example found in ```/mnt/PALM_dataserv/DA
 Remember to use a date followed by a title of what will be stored in that directory, as in ```2019_09_03_Create_Labbook```
 
 Remember never to use spaces or wild characters (such as *&^$#) in folder or file names.
-
+   
 The directory looks like:
 
 ```sh
@@ -105,7 +105,7 @@ An ordered list
 
 ```markdown
 1. item 1
-2. item 2 
+2. item 2
 3. item 3
 44. item 4
 4. etc
@@ -114,7 +114,7 @@ An ordered list
  will look like:
 
 1. item 1
-2. item 2 
+2. item 2
 3. item 3
 4. item 4
 5. etc
