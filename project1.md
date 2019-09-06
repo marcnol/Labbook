@@ -2,7 +2,7 @@
 
 ### Create Labbook
 
-I first did some work to create my first labbook. Explanations are found [here](/mnt/PALM_dataserv/DATA/Public/Labbook/2019_09_03_Create_Labbook/Create_labbook.html).
+I first did some work to create my first labbook. Explanations are found [here](./2019_09_03_Create_Labbook/Create_labbook.html).
 
 
 # Library design
