@@ -1,5 +1,7 @@
 # Guide to write your Lab-book
 
+[TOC]
+
 ## Directory structure
 
 Create a directory structure as in the example found in ```/mnt/PALM_dataserv/DATA/Public/Labbook```
@@ -7,7 +9,7 @@ Create a directory structure as in the example found in ```/mnt/PALM_dataserv/DA
 Remember to use a date followed by a title of what will be stored in that directory, as in ```2019_09_03_Create_Labbook```
 
 Remember never to use spaces or wild characters (such as *&^$#) in folder or file names.
-   
+
 The directory looks like:
 
 ```sh
@@ -169,6 +171,15 @@ They can of course be easily shared provided you put the files within a Google D
 ### Collaboration
 
 I am still exploring the best ways for this. It seems HackMD (or their codiMD open source version) will be the best. Otherwise, straight ```git``` with Code reviews. But we are still exploring solutions for this.
+
+
+
+## Mounting Google Drive and Dropbox
+
+For Gdrive, follow the instructions [Gdrive Mounting](./Installing Google Drive Ocamlfuse on Ubuntu 18.04.md).
+
+For Dropbox, follow the instructions here: [Dropbox Mounting](./Mounting Dropbox in Linux.md)
+
 
 
 ## Work in progress
