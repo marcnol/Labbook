@@ -130,12 +130,12 @@ Let's say you have an image, called pinguin.jpeg in your directory ```2019_09_03
 You can insert the image by typing
 
 ```markdown
-![pinguin](./2019_09_03_Create_Labbook/pinguin.jpeg)
+![pinguin](./pinguin.jpeg)
 ```
 
 and it will appear as:
 
-![pinguin](./2019_09_03_Create_Labbook/pinguin.jpeg)
+![pinguin](./pinguin.jpeg)
 
 You can also add images from the internet by replacing the filename with a link.
 
