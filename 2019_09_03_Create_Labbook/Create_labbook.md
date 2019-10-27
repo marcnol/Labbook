@@ -130,7 +130,7 @@ Let's say you have an image, called pinguin.jpeg in your directory ```2019_09_03
 You can insert the image by typing
 
 ```markdown
-![pinguin](/mnt/PALM_dataserv/DATA/Public/Labbook/2019_09_03_Create_Labbook/pinguin.jpeg)
+![pinguin](./2019_09_03_Create_Labbook/pinguin.jpeg)
 ```
 
 and it will appear as:
