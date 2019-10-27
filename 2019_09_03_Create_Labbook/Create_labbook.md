@@ -135,9 +135,11 @@ You can insert the image by typing
 
 and it will appear as:
 
-![pinguin](/mnt/PALM_dataserv/DATA/Public/Labbook/2019_09_03_Create_Labbook/pinguin.jpeg)
+![pinguin](./2019_09_03_Create_Labbook/pinguin.jpeg)
 
 You can also add images from the internet by replacing the filename with a link.
+
+Make sure you always use relative links! If you don't know what these are, ask around!
 
 #### Tables
 
