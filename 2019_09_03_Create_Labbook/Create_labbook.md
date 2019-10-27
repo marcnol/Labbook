@@ -25,17 +25,17 @@ if you want to look at how this looks, open this [link](./).
 
 ## Header file
 
-The header file is a file that lives in the root of your directory structure, in this example this would be ```/mnt/PALM_dataserv/DATA/Public/Labbook```, and that contains links to your data and experiments.
+The header file is a file that lives in the root of your directory structure, in this example this would be ```http://192.168.6.13/Labbook/project1.html```, and that contains links to your data and experiments.
 
 For instance, let's say you have a project where you look for the transcriptional state of cells in chicken skin cells. In this case, everyday you will have different experiments performed and the images/videos/labbook pages for each day will be stored in a specific directory as described in the first section (e.g. ```2019_09_03_Create_experiment1```). After a while, it will be hard browsing folder per folder and file per file to find when you did each experiment. So this is where you header file comes from.
 
 If you want to see an example of a header file, open this file:
 
 ```sh
-/mnt/PALM_dataserv/DATA/Public/Labbook/project1.md
+http://192.168.6.13/Labbook/project1.html
 ```
 
-[Link to project1](/mnt/PALM_dataserv/DATA/Public/Labbook/project1.html)
+[Link to project1](http://192.168.6.13/Labbook/project1.html)
 
 ## Markdown
 
